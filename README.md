@@ -20,6 +20,7 @@ Clone the repo:
 
 ```bash
 $ git clone https://github.com/seanmorris/terminal-pollution.git
+$ cd terminal-pollution
 ```
 
 Run the install script:
